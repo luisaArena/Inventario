@@ -14,3 +14,5 @@ C:\Users\Luisa Arenas\inventario\Inventory.Persistence\obj\Debug\net8.0\refint\I
 C:\Users\Luisa Arenas\inventario\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.pdb
 C:\Users\Luisa Arenas\inventario\Inventory.Persistence\obj\Debug\net8.0\ref\Inventory.Persistence.dll
 C:\Users\Luisa Arenas\inventario\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.sourcelink.json
+C:\Users\Luisa Arenas\inventario\Inventory.Persistence\bin\Debug\net8.0\Inventory.Persistence.runtimeconfig.json
+C:\Users\Luisa Arenas\inventario\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.genruntimeconfig.cache
