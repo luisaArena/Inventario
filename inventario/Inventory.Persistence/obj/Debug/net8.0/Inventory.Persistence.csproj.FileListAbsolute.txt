@@ -1,0 +1,16 @@
+C:\Users\Luisa Arenas\inventario\Inventory.Persistence\bin\Debug\net8.0\Inventory.Persistence.deps.json
+C:\Users\Luisa Arenas\inventario\Inventory.Persistence\bin\Debug\net8.0\Inventory.Persistence.dll
+C:\Users\Luisa Arenas\inventario\Inventory.Persistence\bin\Debug\net8.0\Inventory.Persistence.pdb
+C:\Users\Luisa Arenas\inventario\Inventory.Persistence\bin\Debug\net8.0\Inventory.Entites.dll
+C:\Users\Luisa Arenas\inventario\Inventory.Persistence\bin\Debug\net8.0\Inventory.Entites.pdb
+C:\Users\Luisa Arenas\inventario\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.csproj.AssemblyReference.cache
+C:\Users\Luisa Arenas\inventario\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luisa Arenas\inventario\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.AssemblyInfoInputs.cache
+C:\Users\Luisa Arenas\inventario\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.AssemblyInfo.cs
+C:\Users\Luisa Arenas\inventario\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Luisa Arenas\inventario\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.csproj.CopyComplete
+C:\Users\Luisa Arenas\inventario\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.dll
+C:\Users\Luisa Arenas\inventario\Inventory.Persistence\obj\Debug\net8.0\refint\Inventory.Persistence.dll
+C:\Users\Luisa Arenas\inventario\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.pdb
+C:\Users\Luisa Arenas\inventario\Inventory.Persistence\obj\Debug\net8.0\ref\Inventory.Persistence.dll
+C:\Users\Luisa Arenas\inventario\Inventory.Persistence\obj\Debug\net8.0\Inventory.Persistence.sourcelink.json

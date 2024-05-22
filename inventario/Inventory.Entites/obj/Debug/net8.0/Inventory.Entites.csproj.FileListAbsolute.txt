@@ -1,0 +1,12 @@
+C:\Users\Luisa Arenas\inventario\Inventory.Entites\bin\Debug\net8.0\Inventory.Entites.deps.json
+C:\Users\Luisa Arenas\inventario\Inventory.Entites\bin\Debug\net8.0\Inventory.Entites.dll
+C:\Users\Luisa Arenas\inventario\Inventory.Entites\bin\Debug\net8.0\Inventory.Entites.pdb
+C:\Users\Luisa Arenas\inventario\Inventory.Entites\obj\Debug\net8.0\Inventory.Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luisa Arenas\inventario\Inventory.Entites\obj\Debug\net8.0\Inventory.Entites.AssemblyInfoInputs.cache
+C:\Users\Luisa Arenas\inventario\Inventory.Entites\obj\Debug\net8.0\Inventory.Entites.AssemblyInfo.cs
+C:\Users\Luisa Arenas\inventario\Inventory.Entites\obj\Debug\net8.0\Inventory.Entites.csproj.CoreCompileInputs.cache
+C:\Users\Luisa Arenas\inventario\Inventory.Entites\obj\Debug\net8.0\Inventory.Entites.dll
+C:\Users\Luisa Arenas\inventario\Inventory.Entites\obj\Debug\net8.0\refint\Inventory.Entites.dll
+C:\Users\Luisa Arenas\inventario\Inventory.Entites\obj\Debug\net8.0\Inventory.Entites.pdb
+C:\Users\Luisa Arenas\inventario\Inventory.Entites\obj\Debug\net8.0\ref\Inventory.Entites.dll
+C:\Users\Luisa Arenas\inventario\Inventory.Entites\obj\Debug\net8.0\Inventory.Entites.sourcelink.json
